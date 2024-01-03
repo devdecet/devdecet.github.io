@@ -1,7 +1,11 @@
-## How to Edit Each Section
+I built this page using the theme *Academimal*. I createrd this page from the template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io).
 
-### References
+## Academimal
 
+Academimal is a two-column [Hugo](https://gohugo.io/) theme for researchers from [Lei Yang](http://leiy.me).
+It is based on the awesome [Jekyll](https://jekyllrb.com) theme
+[Minimal](https://pages-themes.github.io/minimal/) created by
+[orderdlist](https://github.com/orderedlist). 
 
 ### Sidebar
 
@@ -45,4 +49,5 @@ works:
 ```
 
 Everything in the data files are optional, except the title. So you may have an article without abstract and links, and another one without note and PDF link.
+
 
