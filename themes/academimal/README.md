@@ -22,6 +22,6 @@ need comes:
 
 ## Demo / Example
 
-I use this theme for my own [homepage](http://leiy.me). The source code can
+Theme adapted from [homepage](http://leiy.me). The source code can
 be found [on GitHub](https://github.com/yangl1996/homepage).
 
