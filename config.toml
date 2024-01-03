@@ -1,0 +1,15 @@
+title = "Devis Decet"
+baseURL = "https://devdecet.github.io"
+theme = "academimal"
+languageCode = "en-us"
+
+[author]
+name = "Devis Decet"
+homepage = "https://devdecet.github.io"
+
+[params]
+
+shortbio = "PhD student, Northwestern University"
+logo = "images/dev_pic.jpg"
+
+email = "ddecet@u.northwestern.edu"
