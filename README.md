@@ -1,4 +1,4 @@
-I built this page using the theme *Academimal*. I createrd this page from the template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io).
+I built this page using the theme *Academimal*. I created this page from the template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io).
 
 ## Academimal
 
