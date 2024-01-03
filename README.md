@@ -1,6 +1,6 @@
 I built this page using the theme *Academimal*. I createrd this page from the template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io).
 
-### Academimal
+## Academimal
 
 Academimal is a two-column [Hugo](https://gohugo.io/) theme for researchers from [Lei Yang](http://leiy.me).
 It is based on the awesome [Jekyll](https://jekyllrb.com) theme
