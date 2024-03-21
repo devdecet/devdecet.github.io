@@ -10,6 +10,10 @@
   </url><url>
     <loc>https://devdecet.github.io/sections/</loc>
   </url><url>
-    <loc>https://devdecet.github.io/tags/</loc>
+  <loc>https://devdecet.github.io/tags/</loc>
+      </url><url>
+  <loc>https://devdecet.github.io/#bio</loc>
+          </url><url>
+  <loc>https://devdecet.github.io/#research</loc>
   </url>
 </urlset>
