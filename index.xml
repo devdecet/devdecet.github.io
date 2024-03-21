@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Devis Decet</title>
+    <title>Personal page of Devis Decet</title>
     <link>https://devdecet.github.io/</link>
-    <description>Recent content in Homepage on Devis Decet</description>
+    <description>Devis Decet, Economics, Northwestern University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://devdecet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://devdecet.github.io/sections/about/</link>
+      <link>https://devdecet.github.io/#bio</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://devdecet.github.io/sections/about/</guid>
+      <guid>https://devdecet.github.io/#bio</guid>
       <description>I am a Ph.D. Candidate in Economics at Northwestern University.&#xA;My research interests lie at the intersection of Development Economics and Political Economy. In my research I use large surveys, administrative and geospatial data to investigate issues on state capacity, conflict and child labour.&#xA;Curriculum Vitae, Twitter, LinkedIn&#xA;Email: ddecet@u.northwestern.edu</description>
     </item>
   </channel>
