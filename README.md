@@ -1,5 +1,6 @@
 I built this page using the theme *Academimal*. I created this page from the template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io).
 
+
 ## Academimal
 
 Academimal is a two-column [Hugo](https://gohugo.io/) theme for researchers from [Lei Yang](http://leiy.me).
@@ -49,5 +50,12 @@ works:
 ```
 
 Everything in the data files are optional, except the title. So you may have an article without abstract and links, and another one without note and PDF link.
+
+
+
+## How to link personal domain to the github page?
+
+https://medium.com/@tr15t4n/how-to-use-a-custom-squarespace-domain-with-github-pages-1f5f24296ae0
+
 
 
