@@ -18,7 +18,7 @@ git remote -v
 git add .
 
 # commit with a short message
-git commit -m "Update website"
+git commit -m "Update about + research + cv"
 
 # push to GitHub (main branch)
 git push origin main
