@@ -30,8 +30,12 @@ In contexts where child labour is pervasive, household decisions about allocatin
 
 **State Capacity and Environmental Protection**  
 *(with [Marie-Louise Décamps](https://sites.google.com/view/mstelman))*  
-[Abstract](#){: .toggle-link data-target="paper4" }
+<!-- [Abstract](#){: .toggle-link data-target="paper4" }
 
 <div id="paper4" class="abstract">
 Policies against deforestation are crucial for fighting climate change. This paper examines how the governance of environmental agencies affects the effectiveness of these policies. In the context of Brazil, we compile a novel dataset that integrates satellite land use data, administrative data on the environmental agency organization and on agents' career, and enforcement activities. With the findings of this paper, we aim to uncover how governance reforms influence enforcement capacity and shape farmers' land use decisions, contributing to our understanding of how state capacity affects environmental conservation.
-</div>
+</div> --- -->
+
+**Deforestation in the Congo Basin**  
+*(with [Marie-Louise Décamps](https://sites.google.com/view/mstelman) and [Ameet Morjaria](https://sites.google.com/site/ameetmorjaria))*  
+<!-- [Abstract](#){: .toggle-link data-target="paper5" } --- -->
