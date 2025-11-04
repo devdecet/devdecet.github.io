@@ -1,7 +1,6 @@
 ## Working Papers
 
 **Organizing Fiscal Capacity**  
-*New version with updated data coming soon*  
 [Abstract](#){: .toggle-link data-target="paper1" } | [PDF](/papers/organizingFiscalCapacity.pdf) | [Best Paper World Bank Conference on Public Institutions](https://www.worldbank.org/en/events/2024/06/28/world-bank-conference-public-institutions-enabling-the-private-sector)
 
 <div id="paper1" class="abstract">
