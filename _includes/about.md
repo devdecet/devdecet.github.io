@@ -4,7 +4,7 @@ I am an economist with interests in development, environmental, political, and p
 
 My research focuses on state capacity and on the challenges posed by climatic shocks and environmental conservation.
 
-I work as a Postdoctoral Researcher at [LEAP Bocconi](https://www.leap.unibocconi.eu). I received my Ph.D. in Economics from Northwestern in June 2025. You can find my CV [here](/assets/pdf/decet_cv.pdf).
+I work as a Postdoctoral Researcher at [LEAP Bocconi](https://www.leap.unibocconi.eu). I received my Ph.D. in Economics from Northwestern in June 2025. You can find my CV [here](/assets/pdf/DevisDecet_CV.pdf).
 
 Email: *devis.decet@unibocconi.it*   
 
