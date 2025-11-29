@@ -52,7 +52,7 @@ body {
   flex: 1;
   padding: 3rem 4rem; /* Significantly increased padding */
   overflow: visible; /* prevents independent scroll */
-  max-width: calc(100vw - 320px); /* Prevent overflow on smaller screens */
+  max-width: calc(100vw - 280px); /* Prevent overflow on smaller screens */
   box-sizing: border-box;
 }
 
