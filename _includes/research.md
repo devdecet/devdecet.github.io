@@ -9,10 +9,11 @@ This paper investigates how the spatial organization of a tax authority shapes f
 
 **Water Wars**   
 *(with [Andrea Marcucci](https://sites.google.com/view/andremarcucci/home))*  
-[Abstract](#){: .toggle-link data-target="paper2" } | [PDF](/papers/waterWars.pdf)
+[Abstract](#){: .toggle-link data-target="paper2" } | _New version with updated data under preparation_
+<!-- [PDF](/papers/waterWars.pdf) -->
 
 <div id="paper2" class="abstract">
-This paper studies the relationship between access to water resources and local violence in Africa. Due to limited irrigation, rural communities rely on water from rainfall and rivers for their economic needs. When rainfall is scarcer, river water becomes more valuable, potentially fueling violence in areas with greater control over its flow. We test this hypothesis by combining high-resolution data on hydrography, river network structure, rainfall, and conflict in Africa from 1997 to 2021. Low rainfall in a location increases conflict in neighboring areas that are water-rich and located upstream along the river network. The effects are stronger where water distribution among ethnic groups is more unequal and weaker in countries with better governance. The increase in conflict is more pronounced in regions facing a long-term decline in river water availability. These findings suggest that water access can drive local violence, a risk that may grow as climate change increases the frequency of droughts and reshapes river water distribution.
+This paper studies the relationship between access to water resources and local violence in Africa. Due to limited irrigation, rural communities rely on water from rainfall and rivers for their economic needs. When rainfall is scarcer, river water becomes more valuable, potentially fueling violence in areas with greater control over its flow. We test this hypothesis by combining high-resolution data on hydrography, river network structure, rainfall, and conflict in Africa from 1997 to 2021. Low rainfall in a location increases conflict in neighboring areas that are water-rich and located upstream along the river network. The effects are stronger where water distribution among ethnic groups is more unequal and weaker in countries with better governance. The increase in conflicts is more pronounced in regions facing a long-term decline in river water availability. These findings suggest that water access can drive local violence, a risk that may grow as climate change increases the frequency of droughts and reshapes river water distribution.
 </div>
 
 **Child Labour, Human Capital and Beliefs**  
