@@ -9,11 +9,10 @@ This paper investigates how the spatial organization of a tax authority shapes f
 
 **Water Wars**   
 *(with [Andrea Marcucci](https://sites.google.com/view/andremarcucci/home))*  
-[Abstract](#){: .toggle-link data-target="paper2" } | _New version with updated data under preparation_
-<!-- [PDF](/papers/waterWars.pdf) -->
+[Abstract](#){: .toggle-link data-target="paper2" } | [PDF](/papers/waterWars.pdf)  
 
 <div id="paper2" class="abstract">
-This paper examines how water resources mediate the relationship between climate shocks and violence. Combining high-resolution data on temperature, hydrology, and conflict events across Africa from 1997 to 2023, we show that high-temperature shocks increase conflict in nearby water-rich areas. The results are driven by shocks originating in downstream locations, consistent with groups seeking to secure access to upstream water sources that confer greater control over river flow. The effect is stronger for persistent temperature shocks and in regions experiencing long-run decline in water availability. These findings highlight a mechanism through which climate change may increase conflict risk, as rising temperatures and shifts in the distribution of surface water intensify competition over water resources.
+How does the geography of water resources shape violent conflict? We assemble a georeferenced panel spanning the entire African continent from 1997 to 2023, combining detailed data on hydrology and conflict. Leveraging the spatial inequality in surface water resources and the structure of the river network, we show that heat shocks trigger conflict in nearby water-rich areas and that they propagate upstream along rivers, but not downstream. These effects are more pronounced when shocks cross ethnic boundaries along the river, in countries with weak national institutions, and in areas with persistent heat and declining water availability. Our findings highlight the geography of water resources as a key mechanism through which climatic shocks propagate into violence.
 </div>
 
 **Child Labour, Human Capital and Beliefs**  
